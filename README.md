@@ -36,19 +36,14 @@
   </a>
 </div>
 
+
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=milad-mamandi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=milad-mamandi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=milad-mamandi&theme=github_dark" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/master/img/transparent.png" width="40" height="1" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=milad-mamandi&layout=compact&theme=github_dark" />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milad-mamandi/milad-mamandi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milad-mamandi/milad-mamandi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/milad-mamandi/milad-mamandi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
